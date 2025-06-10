@@ -9,7 +9,7 @@ URL: %{forgeurl}
 VCS: git:%{forgeurl}.git
 Source0: %{forgesource} 
 # https://github.com/mitradranirban/samaano-fonts/archive/v2.301/samaano-fonts-2.301.tar.gz
-Source1: https://github.com/mitradranirban/samaanoVF/raw/refs/heads/main/67-0-samaano-fonts.conf
+Source1: https://github.com/mitradranirban/anir-samaano-fonts/raw/refs/heads/main/67-0-samaano-fonts.conf
 
 %global foundry        anir
 %global fontfamily    samaano        
